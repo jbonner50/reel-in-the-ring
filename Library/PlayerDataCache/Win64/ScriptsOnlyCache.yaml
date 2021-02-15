@@ -17,6 +17,7 @@ ScriptsOnlyBuild:
     - UnityEditor.U2D.Animation.BoneGizmo
     Unity.2D.Tilemap.Editor.dll:
     - UnityEditor.Tilemaps.GridBrush
+    - UnityEditor.Tilemaps.GridBrushEditor
     - UnityEditor.Tilemaps.GridPaintPaletteClipboard
     - UnityEditor.Tilemaps.GridPaintPaletteWindow
     - UnityEditor.Tilemaps.GridPaintingState
@@ -575,7 +576,7 @@ ScriptsOnlyBuild:
     className: SpriteSkin
   - hash:
       serializedVersion: 2
-      Hash: 783f593b9380cf72d0f7ebfd4a0d4bcd
+      Hash: f64fd37da5cb89243ec68b5026d70bb8
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.UI
     className: InputField
@@ -787,4 +788,4 @@ ScriptsOnlyBuild:
   scenePathNames:
   - Assets/Scenes/default.unity
   - Assets/Scenes/won.unity
-  playerPath: /Users/jbonner50/Downloads/Reel_in_the_Ring_Windows/Reel in the Ring.exe
+  playerPath: /Users/jbonner50/Downloads/Reel_In_The_Ring_Windows1/Reel in the Ring.exe
