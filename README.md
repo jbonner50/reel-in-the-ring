@@ -1,5 +1,5 @@
-# game-jam-spring2021
-Reel in the Ring
+# reel-in-the-ring
+Game Jam Spring 2021
 
 Play as a fisherman trying to get his ring from the bottom of the lake. You can usee your fish friend to move your line, but be careful not to catch the fish!
 Crabs will cut your line, and seaweed will kill the fish. Catch the ring to win!
