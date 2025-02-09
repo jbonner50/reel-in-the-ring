@@ -1,5 +1,5 @@
 # reel-in-the-ring
-Game Jam Spring 2021
+[Game Jam Spring 2021](https://org.osu.edu/gamedev/games/reel-in-the-ring/)
 
 Play as a fisherman trying to get his ring from the bottom of the lake. You can usee your fish friend to move your line, but be careful not to catch the fish!
 Crabs will cut your line, and seaweed will kill the fish. Catch the ring to win!
@@ -13,3 +13,19 @@ Crabs will cut your line, and seaweed will kill the fish. Catch the ring to win!
 Tutorial Screen
 ![Start Screen](https://github.com/jbonner50/reel-in-the-ring/blob/main/screenshots/start_screen.png?raw=true)
 
+Jeff Bonner
+
+Asset sources: 
+Ocean Background by ansimuz 
+Pixel Fantasy Caves by Szadi 
+Art Space Cave Tileset by Dmitry Mozgin 
+Fishing Pixel Art Pack by Free Game Assets 
+Crab by wiffle
+Fish by geoffschu02
+Seaweed by Anonymous
+Ring by Darkie
+Sunset by milkie_chan
+
+Audio sources: 
+Deliberate Thought by Incompetech
+Sound Effects from Freesound
